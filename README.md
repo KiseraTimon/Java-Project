@@ -1,6 +1,7 @@
-Project Pharma
+**Project Pharma**
 
 **Overview**
+
 This Java project is a Pharmacy Management System designed to streamline the operations of a pharmacy.
 The system caters to the needs of pharmacists, doctors, and patients by providing a user-friendly interface to manage drug inventory, prescriptions, and transactions.
 
