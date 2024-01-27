@@ -6,6 +6,7 @@ The system caters to the needs of pharmacists, doctors, and patients by providin
 
 **Features**
 **For Pharmacists:**
+
 A. Add Drugs:
 Pharmacists can add new drugs to the inventory with details such as name, quantity, and price.
 
