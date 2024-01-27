@@ -20,6 +20,7 @@ D. Search Patient Prescriptions:
 Easily search and view prescriptions associated with specific patients.
 
 **For Doctors:**
+
 A. View Available Drugs:
 Doctors can check the list of available drugs in the pharmacy.
 
@@ -27,5 +28,6 @@ B. Prescribe Drugs:
 Doctors can prescribe medications to patients and add the prescription details to the system.
 
 **For Patients:**
+
 A. Buy Drugs:
 Patients can purchase prescribed drugs from the pharmacy.
